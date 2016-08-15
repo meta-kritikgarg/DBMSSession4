@@ -3,4 +3,4 @@
 -- include book issue date, title, member name and due date.
 -- Note: Use Correlated Subquery.
 
--- Unable to underStand 
+-- Unable to underStand, doubt
